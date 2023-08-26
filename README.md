@@ -7,11 +7,11 @@ Some coding examples on refelctions and threading ..
 ## Desing Patterns ..
 Some design patterns like prototype, composite, and so ..
 
-# How to
+## How to
 Just read or clone and debug the code ..
 
-# Remarks
+## Remarks
 Not yet any ..
 
-# Change Log
+## Change Log
 230628 Created the repo ..
